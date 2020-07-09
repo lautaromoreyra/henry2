@@ -1,0 +1,17 @@
+homework 
+1-las variables son herramientas que almacenan imformacion a un codigo, es decir podes crear un codigo e introducir la funcion que queres que ese codigo cumpla
+tambien tenemos constantes (const), cuando hablamos de constantes estamos hablando de variables que no va a poder cambiarse
+por ejemplo -var usamos para abreviar variable
+var comercio = aberturas
+const = apertura = 8:00hs a 12:00hs
+-strings: es un bloque de texto siempre que este se encuentre entre comillas (¨).
+-funciones: son una parte muy importante de la programacion mas aun en javascript. se los conoce como objetos invocables o callable objects
+en las funciones tenemos argumentos por ejemplo return. return nos sirve para cambiar la funcion de algo que se este ejecutando en ese momento por ejemplo
+cfunction saludar invitado (hola invitado);[
+var nombre invitado = alex;
+return = hola invitado alex;
+]
+-declaraciones (if) cuando hablamos de declaraciones estamos hablando de controles de flujo y operadores de comparacion por ejemplo if
+if: if es una estructura de control utilizada para tomar decisiones. si el resultado de una expresion da positivos se realizan las acciones relacionadas con el caso positivo.
+-valores booleanos: nos referimos a valores booleanos cuando hablamos de "true, false", basicamente los booleanos tienen 2 opciones verdadero o falso, o activar o desactivar 
+en javascript estos se utilizan para otorgar verdadero o falso a una variable.
